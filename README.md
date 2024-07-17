@@ -10,13 +10,25 @@ This Flask application allows users to submit feedback after verifying their ide
 - **Staff view for uncommented feedback**
 - **Admin view for all feedback with comments (if any)**
 
-## User Interface
-![](Screenshoots/HomePage.jpeg)
-![](Screenshoots/LoginPage.jpeg)
-![](Screenshoots/Upload-QRCodePage.jpeg)
-![](Screenshoots/ProvideFeedbackPage.jpeg)
-![](Screenshoots/AdminPage.jpeg)
-![](Screenshoots/StaffPage.jpeg)
+## User Interface Screenshots
+
+### Home Page
+![Home Page](Screenshoots/HomePage.jpeg)
+
+### Login Page
+![Login Page](Screenshoots/LoginPage.jpeg)
+
+### Upload QR Code Page
+![Upload QR Code Page](Screenshoots/Upload-QRCodePage.jpeg)
+
+### Provide Feedback Page
+![Provide Feedback Page](Screenshoots/ProvideFeedbackPage.jpeg)
+
+### Admin Page
+![Admin Page](Screenshoots/AdminPage.jpeg)
+
+### Staff Page
+![Staff Page](Screenshoots/StaffPage.jpeg)
 
 ## Requirements
 
